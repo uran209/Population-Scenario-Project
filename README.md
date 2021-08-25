@@ -10,7 +10,7 @@
 ### Software
 - R >= 4.0.0
   - see, https://rstudio-education.github.io/hopr/starting.html
-  - please download "R" and "R-studio"
+  - download "R" and "R-studio" matching to the specification of your PC
 - Excel >= 2010
 
 ### Excel 'Development' ribbon activation
