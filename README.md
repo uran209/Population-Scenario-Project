@@ -46,7 +46,6 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 # Agenda
 ## The 1st session：Presentation about population distribution modeling
----
 ### 15:00-15:10 (JST) Opening remarks and introduction of e-Asia (Dr. Osamu Saito, IGES)
 ### 15:10-15:20 (JST) Population scenario development (Dr. Takanori Matsui, Osaka Univ.)
 - Integrated Assessment model vs. Technical model for describing socio-ecological systems
@@ -64,7 +63,6 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ### 15:55-16:00 (JST) Q&A
 
 ## The 2nd session：Demonstration of scenario analysis on grid population
----
 ### 16:05-16:45 (JST) Scenario simulation of grid population by gravity model will be demonstrated
 - Indonesian data will be used as sample data from open data source 
 - Participants can experience the same simulation with shared dataset and codes
@@ -96,7 +94,6 @@ Information: https://supportoffice.jp/eAsia2021/events/
         1. Save the raster data
     1. Visualize the raster data
 
----
 ## 16:45-16:55 (JST) Q&A, feedbacks from participants
 ## 16:55-17:00 (JST) Closing remarks（Dr. Osamu Saito）
 
