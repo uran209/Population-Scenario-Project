@@ -1,3 +1,5 @@
+<img width="1046" alt="image" src="https://user-images.githubusercontent.com/85103588/131287056-585abf9f-9e17-49f5-a1d8-b86543e8eed9.png">
+
 # ITMoB Training Seminar Series #1: Modeling on Population Distribution Projection for Scenario Analysis
 ITMoB launched a series of open online training seminars as an opportunity for technical capacity building.
 The first training seminar on population distribution modeling will be organized on 3rd September.
