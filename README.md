@@ -48,7 +48,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ## The 1st session：Presentation about population distribution modeling
 ### 15:00-15:10 (JST) Opening remarks and introduction of e-Asia (Dr. Osamu Saito, IGES)
 ### 15:10-15:20 (JST) Population scenario development (Dr. Takanori Matsui, Osaka Univ.)
-- Integrated Assessment model vs. Technical model for describing socio-ecological systems
+- PANCES model for describing socio-ecological systems
 ![image](https://user-images.githubusercontent.com/85103588/131280906-b1e1aa83-6557-47eb-925d-c4ddb95ff9e1.png)
 
 - PANCES scenarios
@@ -56,7 +56,6 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 - PANCES simulation flow
 
-- The role of population scenario
 
 
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
