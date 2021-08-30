@@ -29,15 +29,19 @@ Information: https://supportoffice.jp/eAsia2021/events/
 - Excel >= 2010
 
 
-# Advanced preparation by Sep. 03 JST 15:00 
-### Excel 'Development' ribbon activation
+# Advanced preparation by Sep. 03 JST 15:00
+### 1. Data download
+
+### 2. Install R & Rstudio
+- download "R" and "R-studio" matching to the specification of your PC
+  - Follow the instruction of https://rstudio-education.github.io/hopr/starting.html
+
+
+### 3. Excel 'Development' ribbon activation
 -  open 'file'.
 -  click 'Enable Content' at the SECURITY WARNING bar ![image](https://user-images.githubusercontent.com/85103588/130731917-cbc33026-c8df-4d54-a78b-af0b690ad617.png)
 -  go to 'File' tab -> select 'Options' ![image (1)](https://user-images.githubusercontent.com/85103588/130732218-0f7416dc-90fe-4c15-aded-988d790f650f.png)
 -  go to "Customize Ribbon" -> check the ribbon named "Developer" in Main Tabs ![image (2)](https://user-images.githubusercontent.com/85103588/130732311-a6f9f6aa-5bdc-4b28-84b8-eee022dbec16.png)
-
-### Data download
--  
 
 
 # Agenda
@@ -52,7 +56,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
 - What is gravity model?
 - Residential population distribution assumption of Compact & Dispersed scenarios
-- Application: future population & socio-ecological status
+- Application: Overlay the future gridded population and socio-ecological status
 ### 15:35-15:40 (JST) Q&A
 
 ### 15:40-15:55 (JST) Development and application of combined model by cohort-component method and gravity-based method (Dr. Keiko Hori, IGES)
@@ -86,7 +90,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
     1. Initialize parameters
     1. Read the province map
     1. Iterate for each scenario
-        1. Read the calculated population scenario from exel file (*step2_generate_future_pop_scenarios/ScenarioProj_Model.xlsm*)
+        1. Read the calculated population scenario from excel file (*step2_generate_future_pop_scenarios/ScenarioProj_Model.xlsm*)
         1. Add longitude & latitude information
         1. Rasterize the future population data
         1. Save the raster data
