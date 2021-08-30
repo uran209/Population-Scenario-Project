@@ -53,7 +53,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ### 15:00-15:10 (JST) Opening remarks and introduction of e-Asia (Dr. Osamu Saito, IGES)
 ### 15:10-15:20 (JST) Population scenario development (Dr. Takanori Matsui, Osaka Univ.)
 #### 1. IPBES conceptual framework (https://ipbes.net/conceptual-framework)
-![image](https://user-images.githubusercontent.com/85103588/131281250-a924758c-4c14-4dd1-b8f6-5a321080b7c6.png)
+<img src="https://user-images.githubusercontent.com/85103588/131281250-a924758c-4c14-4dd1-b8f6-5a321080b7c6.png" width="1000">
 
 #### 2. PANCES simulation system for describing socio-ecological systems (http://pances.net/eng/theme1.html)
 ![image](https://user-images.githubusercontent.com/85103588/131280906-b1e1aa83-6557-47eb-925d-c4ddb95ff9e1.png)
