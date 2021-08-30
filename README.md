@@ -62,8 +62,8 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ![scenario](https://user-images.githubusercontent.com/85103588/131283167-edb2d7bb-113b-4dbc-9f7c-7c9cd6a7a676.png)
 
 #### 4. Population forecasting of Japan (http://www.ipss.go.jp/s-info/e/ssj2014/001.html)
-![image](https://user-images.githubusercontent.com/85103588/131308192-05846671-dcd0-4edf-a88d-19a077b14923.png)
-<img src="https://user-images.githubusercontent.com/85103588/131308192-05846671-dcd0-4edf-a88d-19a077b14923.png" width="500">
+<img src="https://user-images.githubusercontent.com/85103588/131308192-05846671-dcd0-4edf-a88d-19a077b14923.png" width="1000">
+
 #### 5. Training series
 ![series](https://user-images.githubusercontent.com/85103588/131285341-56db35a0-6e12-42c8-a868-8913f35dfde3.png)
 
