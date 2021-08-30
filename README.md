@@ -42,6 +42,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 # Agenda
 ## The 1st session：Presentation about population distribution modeling
+---
 ### 15:00-15:10 (JST) Opening remarks and introduction of e-Asia (Dr. Osamu Saito, IGES)
 ### 15:10-15:20 (JST) Population scenario development (Dr. Takanori Matsui, Osaka Univ.)
 - Integrated Assessment model vs. Technical model for describing socio-ecological systems
@@ -49,24 +50,49 @@ Information: https://supportoffice.jp/eAsia2021/events/
 - PANCES simulation flow
 - The role of population scenario
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
-
+- What is gravity model?
+- Residential population distribution assumption of Compact & Dispersed scenarios
+- Application: future population & socio-ecological status
 ### 15:35-15:40 (JST) Q&A
+
 ### 15:40-15:55 (JST) Development and application of combined model by cohort-component method and gravity-based method (Dr. Keiko Hori, IGES)
 
 ### 15:55-16:00 (JST) Q&A
 
 ## The 2nd session：Demonstration of scenario analysis on grid population
+---
 ### 16:05-16:45 (JST) Scenario simulation of grid population by gravity model will be demonstrated
 - Indonesian data will be used as sample data from open data source 
 - Participants can experience the same simulation with shared dataset and codes
 
 #### 16:05-16:20 (JST) Step 1. Preprocessing population data (Haga)
-
+- Data: Age and sex structures provided by [WorldPop](https://www.worldpop.org/geodata/listing?id=87)
+- Processing in R & Rstudio
+    1. Install & Load libraries
+    1. Initialize parameters
+    1. Read province & builtup area maps (in *step1_preprocessing_pop/data* folder)
+    1. Iterate for each age & sex category
+        1. Read population data (in *step1_preprocessing_pop/data/idn_westjawa* folder)
+        1. Mask the population data within the west jawa province
+        1. Remove non-residential area
+        1. Compute proportion
+        1. Save the raster data as dataframe in CSV format
+    1. Merge all CSVs into one CSV file (*./output/step1_output_westjawa_cohort_data.csv*)
 #### 16:20-16:35 (JST) Step 2. Calculate future population scenario (Hori & Haga)
 
 #### 16:35-16:45 (JST) Step 3. Visualize & compare scenarios (Haga)
+- Processing in R & Rstudio
+    1. Install & Load libraries
+    1. Initialize parameters
+    1. Read the province map
+    1. Iterate for each scenario
+        1. Read the calculated population scenario from exel file (*step2_generate_future_pop_scenarios/ScenarioProj_Model.xlsm*)
+        1. Add longitude & latitude information
+        1. Rasterize the future population data
+        1. Save the raster data
+    1. Visualize the raster data
 
-### 16:45-16:55 (JST) Q&A, feedbacks from participants
-
+---
+## 16:45-16:55 (JST) Q&A, feedbacks from participants
 ## 16:55-17:00 (JST) Closing remarks（Dr. Osamu Saito）
 
