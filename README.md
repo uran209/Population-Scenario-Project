@@ -55,7 +55,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ![image](https://user-images.githubusercontent.com/85103588/131280906-b1e1aa83-6557-47eb-925d-c4ddb95ff9e1.png)
 
 #### PANCES scenarios
-![image](https://user-images.githubusercontent.com/85103588/131280953-1544f934-38b8-4c28-a26d-a1d15619c90a.png)
+![scenario](https://user-images.githubusercontent.com/85103588/131283167-edb2d7bb-113b-4dbc-9f7c-7c9cd6a7a676.png)
 
 #### Training series
 ![series](https://user-images.githubusercontent.com/85103588/131282667-214efa7e-e0e7-41ac-8070-d716a618b233.png)
