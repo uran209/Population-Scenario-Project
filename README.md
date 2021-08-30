@@ -60,9 +60,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ![scenario](https://user-images.githubusercontent.com/85103588/131283167-edb2d7bb-113b-4dbc-9f7c-7c9cd6a7a676.png)
 
 #### 4. Training series
-![series](https://user-images.githubusercontent.com/85103588/131282667-214efa7e-e0e7-41ac-8070-d716a618b233.png)
-
-
+![series](https://user-images.githubusercontent.com/85103588/131285341-56db35a0-6e12-42c8-a868-8913f35dfde3.png)
 
 
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
