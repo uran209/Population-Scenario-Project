@@ -82,8 +82,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 ## The 2nd session：Demonstration of scenario analysis on grid population
 ### 16:05-16:45 (JST) Scenario simulation of grid population by gravity model will be demonstrated
-- Indonesian data will be used as sample data from open data source 
-- Participants can experience the same simulation with shared dataset and codes
+  Simulated experience will be provided for participants by shared dataset and codes. Indonesian data will be used as sample data for the demonstration.
 
 #### 16:05-16:20 (JST) Step 1. Preprocessing population data (Haga)
 - Data: Age and sex structures provided by [WorldPop](https://www.worldpop.org/geodata/listing?id=87)
