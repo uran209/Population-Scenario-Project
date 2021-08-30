@@ -66,14 +66,14 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
-#### https://link.springer.com/article/10.1007%2Fs11625-018-0605-y
+#### Source: https://link.springer.com/article/10.1007%2Fs11625-018-0605-y
 - What is gravity model?
 - Residential population distribution assumption of Compact & Dispersed scenarios
 - Application: Overlay the future gridded population and socio-ecological status
 ### 15:35-15:40 (JST) Q&A
 
 ### 15:40-15:55 (JST) Development and application of combined model by cohort-component method and gravity-based method (Dr. Keiko Hori, IGES)
-#### https://link.springer.com/article/10.1007%2Fs11625-020-00835-5
+#### Source: https://link.springer.com/article/10.1007%2Fs11625-020-00835-5
 
 ### 15:55-16:00 (JST) Q&A
 
