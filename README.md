@@ -74,6 +74,9 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 ### 15:40-15:55 (JST) Development and application of combined model by cohort-component method and gravity-based method (Dr. Keiko Hori, IGES)
 #### Source: https://link.springer.com/article/10.1007%2Fs11625-020-00835-5
+- Multi step model structure combining cohort-component method and grabity model
+- Detailed mathematical algorithm and scenario assumption of each step
+- Application: Overlay analysis on the future land use maps
 
 ### 15:55-16:00 (JST) Q&A
 
