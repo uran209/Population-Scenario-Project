@@ -84,7 +84,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ### 16:05-16:45 (JST) Scenario simulation of grid population by gravity model will be demonstrated
   Simulated experience will be provided for participants by shared dataset and codes. Indonesian data will be used as sample data for the demonstration.
 
-#### 16:05-16:20 (JST) Step 1. Preprocessing population data (Haga)
+#### 16:05-16:20 (JST) Step 1. Preprocessing population data (Dr.Haga)
 - Data: Age and sex structures provided by [WorldPop](https://www.worldpop.org/geodata/listing?id=87)
 - Processing in R & Rstudio
     1. Install & Load libraries
@@ -97,9 +97,17 @@ Information: https://supportoffice.jp/eAsia2021/events/
         1. Compute proportion
         1. Save the raster data as dataframe in CSV format
     1. Merge all CSVs into one CSV file (*./output/step1_output_westjawa_cohort_data.csv*)
-#### 16:20-16:35 (JST) Step 2. Calculate future population scenario (Hori & Haga)
-
-#### 16:35-16:45 (JST) Step 3. Visualize & compare scenarios (Haga)
+    
+#### 16:20-16:35 (JST) Step 2. Calculate future population scenario (Dr.Hori & Dr.Haga)
+- Data: projected 2045 population of West Jawa province by age groups and sex provided by [Indonesia Population Projection 2015-2045](https://www.bps.go.id/publication/2018/10/19/78d24d9020026ad95c6b5965/proyeksi-penduduk-indonesia-2015-2045-hasil-supas-2015.html)
+- Open the Excel file named "ScenarioProj_Model" in *step2_generate_future_pop_scenarios* folder
+  (All the data in the sheet *step1_output_westjawa_2020* is equal to CSV file made at step 1 :*./output/step1_output_westjawa_cohort_data.csv*)
+    1. Click 'Enable Content' at the SECURITY WARNING bar
+    1. Input arbitrary scenario name and parameters (γ and δ) at sheet *ParameterSetting_Compact* and *ParameterSetting_Dispersed*
+    1. Push the button "Run" and wait few minutes (Don't touch anything until the calculation stop)  
+    1. Iterate for each age & sex category
+        
+#### 16:35-16:45 (JST) Step 3. Visualize & compare scenarios (Dr.Haga)
 - Processing in R & Rstudio
     1. Install & Load libraries
     1. Initialize parameters
