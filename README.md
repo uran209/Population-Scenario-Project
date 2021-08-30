@@ -31,6 +31,13 @@ Information: https://supportoffice.jp/eAsia2021/events/
 - Excel >= 2010
 
 
+
+
+
+
+
+
+
 # Advanced preparation by Sep. 03 JST 15:00
 ### 1. Data download
 
@@ -44,6 +51,14 @@ Information: https://supportoffice.jp/eAsia2021/events/
 -  click 'Enable Content' at the SECURITY WARNING bar ![image](https://user-images.githubusercontent.com/85103588/130731917-cbc33026-c8df-4d54-a78b-af0b690ad617.png)
 -  go to 'File' tab -> select 'Options' ![image (1)](https://user-images.githubusercontent.com/85103588/130732218-0f7416dc-90fe-4c15-aded-988d790f650f.png)
 -  go to "Customize Ribbon" -> check the ribbon named "Developer" in Main Tabs ![image (2)](https://user-images.githubusercontent.com/85103588/130732311-a6f9f6aa-5bdc-4b28-84b8-eee022dbec16.png)
+
+
+
+
+
+
+
+
 
 
 # Agenda
@@ -66,6 +81,17 @@ Information: https://supportoffice.jp/eAsia2021/events/
 
 #### 5. Training series
 ![series](https://user-images.githubusercontent.com/85103588/131285341-56db35a0-6e12-42c8-a868-8913f35dfde3.png)
+
+#### 6. Two models for population projection
+* The simple population model from Dr. Haga
+* The demographic dynamics model from Dr. Hori
+
+
+
+
+
+
+
 
 
 ### 15:20-15:35 (JST) Development and application of gravity-based population allocation model (Dr. Chihiro Haga, Osaka Univ.)
