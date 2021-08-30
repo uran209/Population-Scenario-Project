@@ -48,13 +48,18 @@ Information: https://supportoffice.jp/eAsia2021/events/
 ## The 1st session：Presentation about population distribution modeling
 ### 15:00-15:10 (JST) Opening remarks and introduction of e-Asia (Dr. Osamu Saito, IGES)
 ### 15:10-15:20 (JST) Population scenario development (Dr. Takanori Matsui, Osaka Univ.)
-- PANCES model for describing socio-ecological systems
+-IPBES conceptual framework
+![image](https://user-images.githubusercontent.com/85103588/131281250-a924758c-4c14-4dd1-b8f6-5a321080b7c6.png)
+
+- PANCES simulation system for describing socio-ecological systems
 ![image](https://user-images.githubusercontent.com/85103588/131280906-b1e1aa83-6557-47eb-925d-c4ddb95ff9e1.png)
 
 - PANCES scenarios
 ![image](https://user-images.githubusercontent.com/85103588/131280953-1544f934-38b8-4c28-a26d-a1d15619c90a.png)
 
-- PANCES simulation flow
+- Training series
+![series](https://user-images.githubusercontent.com/85103588/131282667-214efa7e-e0e7-41ac-8070-d716a618b233.png)
+
 
 
 
