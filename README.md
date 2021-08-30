@@ -135,6 +135,8 @@ Information: https://supportoffice.jp/eAsia2021/events/
     1. Push the button "Run" and wait few minutes (!!Don't touch anything until the calculation stop!!)
     1. Push the button "BAU allocater"
     1. Check the CSV files made at the same folder with holding the scenario names 
+ - Data :https://www.tutorialspoint.com/vba/index.htm
+          https://www.guru99.com/vba-tutorial.html
         
 #### 16:35-16:45 (JST) Step 3. Visualize & compare scenarios (Dr.Haga)
 - Processing in R & Rstudio
