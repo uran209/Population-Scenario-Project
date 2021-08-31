@@ -70,7 +70,7 @@ Information: https://supportoffice.jp/eAsia2021/events/
 #### 1. IPBES conceptual framework (https://ipbes.net/conceptual-framework)
 <img src="https://user-images.githubusercontent.com/85103588/131281250-a924758c-4c14-4dd1-b8f6-5a321080b7c6.png" width="1000">
 
-#### 2. PANCES simulation system for describing socio-ecological systems (http://pances.net/eng/theme1.html)
+#### 2. PANCES (Predicting and Assessing Natural Capital and Ecosystem Services) simulation system for describing socio-ecological systems (http://pances.net/eng/theme1.html)
 ![image](https://user-images.githubusercontent.com/85103588/131280906-b1e1aa83-6557-47eb-925d-c4ddb95ff9e1.png)
 
 #### 3. PANCES scenarios (https://link.springer.com/article/10.1007/s11625-017-0475-8)
